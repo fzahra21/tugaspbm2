@@ -67,7 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              _isDisguised ? "Nama Samaran" : "Nama Asli",
+              _isDisguised ? "Ara" : "Fathimatuz Zahra",
               style: TextStyle(fontSize: _fontSize),
             ),
             Text(
